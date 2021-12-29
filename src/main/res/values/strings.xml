@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demonstration_kotlin</string>
+    <string name="start_text">We stan ios in this household</string>
+    <string name="button_text">but</string>
+</resources>
